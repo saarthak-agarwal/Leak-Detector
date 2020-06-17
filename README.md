@@ -8,7 +8,7 @@ To use it:
 		#include "Memory_Leak_Detector.c"
      
 
- - In your main function at the following line:
+ - In your main function add the following line:
 
 		 atexit( reportLeak );
 
